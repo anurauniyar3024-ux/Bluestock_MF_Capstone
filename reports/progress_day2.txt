@@ -1,0 +1,11 @@
+23 June
+
+- Created EDA summary script
+- Performed exploratory data analysis on NAV dataset
+- Checked dataset shape and structure
+- Verified data types
+- Verified missing values
+- Generated descriptive statistics
+- Reviewed NAV distribution
+- Converted date column to datetime format
+- Checked NAV dataset date range (2022-01-03 to 2026-05-29)

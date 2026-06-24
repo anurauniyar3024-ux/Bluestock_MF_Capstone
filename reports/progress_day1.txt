@@ -1,0 +1,9 @@
+22 June
+
+- Project structure created
+- 10 datasets imported
+- Pandas installed
+- Data ingestion script completed
+- Missing values checked
+- Duplicate rows checked
+- Dataset audit completed
