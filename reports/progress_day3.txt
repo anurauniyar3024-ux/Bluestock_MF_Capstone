@@ -1,0 +1,21 @@
+Day 3 Progress Report
+Date: 24 June 2026
+
+Tasks Completed:
+1. Performed Exploratory Data Analysis (EDA) on NAV History dataset.
+2. Analyzed dataset shape, columns, data types, missing values, and summary statistics.
+3. Validated AMFI codes between Fund Master and NAV History datasets.
+4. Confirmed all 40 fund codes are present in both datasets.
+5. Created requirements.txt file for project dependencies.
+6. Created and configured GitHub repository.
+7. Committed and pushed project files to GitHub.
+
+Results:
+- Fund codes found: 40
+- NAV codes found: 40
+- Missing codes: 0
+- Data validation successful.
+
+Status:
+Day 3 tasks completed successfully.
+Project repository is now available on GitHub.
