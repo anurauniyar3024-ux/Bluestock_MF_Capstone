@@ -1,0 +1,30 @@
+Day 4 Progress Report
+Date: 25 June 2026
+
+Tasks Completed:
+
+1. Continued the Data Cleaning and SQL Database Design task.
+2. Cleaned and validated the NAV History and Investor Transactions datasets.
+3. Converted date columns to datetime format.
+4. Verified missing values, duplicate records, invalid NAV values, transaction types, KYC status, and transaction amounts.
+5. Saved cleaned datasets to the processed folder.
+6. Designed the SQLite database schema (schema.sql).
+7. Created the database setup script (database_setup.py).
+8. Successfully resolved SQLite database setup issues.
+9. Created the SQLite database (bluestock_mf.db).
+10. Executed the database schema and created all required tables.
+11. Loaded the cleaned datasets into the SQLite database.
+12. Created analytical SQL queries (queries.sql).
+13. Prepared the project data dictionary (data_dictionary.md).
+
+Results:
+
+* Cleaned datasets generated successfully.
+* SQLite database created successfully.
+* Database schema executed successfully.
+* Cleaned datasets loaded into the database.
+* SQL queries completed.
+* Data dictionary completed.
+
+Status:
+Day 4 task completed successfully. The Data Cleaning and SQL Database Design milestone has been completed, and the project is ready for the next phase.

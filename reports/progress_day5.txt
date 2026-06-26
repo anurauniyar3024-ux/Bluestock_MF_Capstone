@@ -1,0 +1,28 @@
+Date: 26 June 2026 (Friday)
+
+Today's Progress:
+- Completed Exploratory Data Analysis (EDA) for the Mutual Fund Analytics Capstone Project.
+- Analyzed AUM (Assets Under Management) trends across fund houses.
+- Visualized AUM growth from 2022–2025.
+- Compared latest AUM across different fund houses.
+- Analyzed monthly SIP inflows and observed growth trends.
+- Created category-wise net inflow heatmap.
+- Explored investor demographics including age group and gender distribution.
+- Analyzed investment amount by age group using box plots.
+- Compared investments across states and city tiers (T30 vs B30).
+- Analyzed payment mode distribution (Net Banking, UPI, Cheque, Mandate).
+- Analyzed KYC verification status of investors.
+- Added Key Insights and Conclusion to the EDA notebook.
+- Saved all work and prepared the notebook for GitHub.
+
+Skills Practiced:
+- Pandas (groupby, pivot_table, value_counts)
+- Data Cleaning
+- Data Visualization (Matplotlib & Seaborn)
+- Heatmaps, Bar Charts, Pie Charts, Box Plots, Line Charts
+- Exploratory Data Analysis (EDA)
+- Business Insights Generation
+
+Status:
+EDA Analysis completed successfully.
+Ready to proceed with the next phase of the Mutual Fund Analytics Capstone Project.
