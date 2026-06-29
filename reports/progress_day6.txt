@@ -1,0 +1,18 @@
+Day 6 Progress – 29 June 2026
+
+Completed:
+- Created Performance_Analytics.ipynb.
+- Loaded and explored the cleaned NAV dataset.
+- Converted date column to datetime.
+- Calculated daily returns for all mutual funds.
+- Calculated CAGR for each fund.
+- Calculated Sharpe Ratio.
+- Calculated Sortino Ratio.
+- Calculated Maximum Drawdown.
+- Calculated Alpha and Beta using benchmark returns.
+- Created a consolidated fund performance scorecard.
+- Exported fund_scorecard.csv to the reports folder.
+
+Status:
+Fund Performance Analytics completed successfully.
+Ready to begin Dashboard Development (Power BI/Tableau) on the next working day.
