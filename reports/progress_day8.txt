@@ -1,0 +1,29 @@
+Day 8 Progress Report - 02 July 2026
+
+Tasks Completed:
+
+1. Cleaned and organized the Advanced_Analytics.ipynb notebook.
+2. Removed debugging cells, duplicate cells, and resolved execution errors.
+3. Successfully reran the notebook from start to finish.
+4. Calculated Rolling 90-Day Sharpe Ratio for mutual fund schemes.
+5. Identified and visualized the Top 10 funds based on Rolling Sharpe Ratio.
+6. Performed Investor Cohort Analysis using transaction data.
+7. Analyzed investment patterns by Age Group, Gender, and Annual Income.
+8. Performed SIP Continuity Analysis and visualized SIP transaction distribution.
+9. Created Investor Cohort Retention Heatmap using Seaborn.
+10. Verified all outputs and finalized the notebook for submission.
+
+Status:
+- Rolling Sharpe Ratio : Completed
+- Investor Cohort Analysis : Completed
+- Demographic Investment Analysis : Completed
+- SIP Continuity Analysis : Completed
+- Cohort Retention Heatmap : Completed
+
+Pending Tasks:
+- Sector HHI Concentration Analysis
+- Simple Fund Recommender
+- Final insights and deliverables (if required by the internship)
+
+Progress:
+Successfully completed the major Advanced Analytics and Risk Metrics components. The notebook was cleaned, verified, and prepared for submission.
