@@ -1,0 +1,27 @@
+Day 7 Progress Report - 01 July 2026
+
+Tasks Completed:
+
+1. Created Advanced_Analytics.ipynb notebook.
+2. Loaded the cleaned NAV history dataset from the processed data folder.
+3. Converted the date column to datetime format.
+4. Sorted NAV data by AMFI code and date.
+5. Calculated daily returns for each mutual fund scheme using percentage change.
+6. Computed Historical Value at Risk (VaR 95%) for all schemes.
+7. Computed Conditional Value at Risk (CVaR 95%) for all schemes.
+8. Verified outputs and resolved file path and dataframe issues during implementation.
+
+Status:
+- Historical VaR (95%) : Completed
+- Conditional VaR (CVaR 95%) : Completed
+
+Pending Tasks:
+- Rolling 90-Day Sharpe Ratio
+- Investor Cohort Analysis
+- SIP Continuity Analysis
+- Simple Fund Recommender
+- Sector HHI Concentration
+- Advanced Insights and Deliverables
+
+Progress:
+Completed the initial Risk Metrics analysis and prepared the notebook for remaining advanced analytics tasks.
